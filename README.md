@@ -1,7 +1,7 @@
 # Academic course: Machine Learning
 
 Universita' della Svizzera italiana ([USI](http://inf.usi.ch))  
-Spring term 2018-2019  
+Spring term 2019-2020  
 
 
 ## People

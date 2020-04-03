@@ -24,9 +24,12 @@ Consider any family of non-linear models of your choice to address the regressio
     - compare your model with the linear regression of task 1. Which one is **statistically** better?
 
 ### T3. (Bonus)
-In the [Github repository of the course](https://github.com/andreacini/ml-19-20), you will find a trained Scikit-learn model that we built using the same dataset you are given. This _baseline_ model is able to achieve a MSE of **0.0175**, when evaluated on the test set.
+In the [Github repository of the course](https://github.com/andreacini/ml-19-20), you will find a trained Scikit-learn model that we built using the same dataset you are given. This _baseline_ model is able to achieve a MSE of **0.0175**, when evaluated on our test set.
 You will get extra points if the test performance of your model is **better** (i.e., the MSE is lower) than ours. Of course, you also have to tell us **why** you think that your model is better.
 
+
+
+### Submission
 
 In order to complete the assignment, you must submit a zip file on the iCorsi platform containing:
 

@@ -28,7 +28,7 @@ if __name__ == '__main__':
     #for example
     assert y_test.shape == y_pred_task1.shape
     assert y_test.shape == y_pred_task2.shape
-    mce1 = (y_test != y_pred_task1).mean()
-    mce2 = (y_test != y_pred_task2).mean()
-    print("MCE model task 1:", mse1)
-    print("MCE model task 2:", mse2)
+    acc1 = (y_test == y_pred_task1).mean()
+    acc2 = (y_test == y_pred_task2).mean()
+    print("Accuracy model task 1:", acc1)
+    print("Accuracy model task 2:", acc2)
